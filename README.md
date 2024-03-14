@@ -1,2 +1,2 @@
 # prepcurse
-prep curse orueba 
+esta es la prueba de como crear un repositorio en gitchub
